@@ -1,0 +1,121 @@
+﻿Sentences that contain all letters commonly used in a language
+--------------------------------------------------------------
+
+Markus Kuhn <http://www.cl.cam.ac.uk/~mgk25/> -- 2001-09-02
+
+This file is UTF-8 encoded.
+
+
+Danish (da)
+---------
+
+  Quizdeltagerne spiste jordbÃ¦r med flÃ¸de, mens cirkusklovnen
+  Wolther spillede pÃ¥ xylofon.
+  (= Quiz contestants were eating strawbery with cream while Wolther
+  the circus clown played on xylophone.)
+
+German (de)
+-----------
+
+  Falsches Ãœben von Xylophonmusik quÃ¤lt jeden grÃ¶ÃŸeren Zwerg
+  (= Wrongful practicing of xylophone music tortures every larger dwarf)
+
+  ZwÃ¶lf BoxkÃ¤mpfer jagten Eva quer Ã¼ber den Sylter Deich
+  (= Twelve boxing fighters hunted Eva across the dike of Sylt)
+
+  HeizÃ¶lrÃ¼ckstoÃŸabdÃ¤mpfung
+  (= fuel oil recoil absorber)
+  (jqvwxy missing, but all non-ASCII letters in one word)
+
+English (en)
+------------
+
+  The quick brown fox jumps over the lazy dog
+
+Spanish (es)
+------------
+
+  El pingÃ¼ino Wenceslao hizo kilÃ³metros bajo exhaustiva lluvia y 
+  frÃ­o, aÃ±oraba a su querido cachorro.
+  (Contains every letter and every accent, but not every combination
+  of vowel + acute.)
+
+French (fr)
+-----------
+
+  Portez ce vieux whisky au juge blond qui fume sur son Ã®le intÃ©rieure, Ã 
+  cÃ´tÃ© de l'alcÃ´ve ovoÃ¯de, oÃ¹ les bÃ»ches se consument dans l'Ã¢tre, ce
+  qui lui permet de penser Ã  la cÃ¦nogenÃ¨se de l'Ãªtre dont il est question
+  dans la cause ambiguÃ« entendue Ã  MoÃ¿, dans un capharnaÃ¼m qui,
+  pense-t-il, diminue Ã§Ã  et lÃ  la qualitÃ© de son Å“uvre. 
+
+  l'Ã®le exiguÃ«
+  OÃ¹ l'obÃ¨se jury mÃ»r
+  FÃªte l'haÃ¯ volapÃ¼k,
+  Ã‚ne ex aÃ©quo au whist,
+  Ã”tez ce vÅ“u dÃ©Ã§u.
+
+  Le cÅ“ur dÃ©Ã§u mais l'Ã¢me plutÃ´t naÃ¯ve, LouÃ¿s rÃªva de crapaÃ¼ter en
+  canoÃ« au delÃ  des Ã®les, prÃ¨s du mÃ¤lstrÃ¶m oÃ¹ brÃ»lent les novÃ¦.
+
+Irish Gaelic (ga)
+-----------------
+
+  D'fhuascail Ãosa, Ãšrmhac na hÃ“ighe Beannaithe, pÃ³r Ã‰ava agus Ãdhaimh
+
+Hungarian (hu)
+--------------
+
+  ÃrvÃ­ztÅ±rÅ‘ tÃ¼kÃ¶rfÃºrÃ³gÃ©p
+  (= flood-proof mirror-drilling machine, only all non-ASCII letters)
+
+Icelandic (is)
+--------------
+
+  KÃ¦mi nÃ½ Ã¶xi hÃ©r ykist Ã¾jÃ³fum nÃº bÃ¦Ã°i vÃ­l og Ã¡drepa
+
+  SÃ¦vÃ¶r grÃ©t Ã¡Ã°an Ã¾vÃ­ Ãºlpan var Ã³nÃ½t
+  (some ASCII letters missing)
+
+Greek (el)
+-------------
+
+  Î“Î±Î¶Î­ÎµÏ‚ ÎºÎ±á½¶ Î¼Ï…ÏÏ„Î¹á½²Ï‚ Î´á½²Î½ Î¸á½° Î²Ïá¿¶ Ï€Î¹á½° ÏƒÏ„á½¸ Ï‡ÏÏ…ÏƒÎ±Ï†á½¶ Î¾Î­Ï†Ï‰Ï„Î¿
+  (= No more shall I see acacias or myrtles in the golden clearing)
+
+  ÎžÎµÏƒÎºÎµÏ€Î¬Î¶Ï‰ Ï„á½´Î½ ÏˆÏ…Ï‡Î¿Ï†Î¸ÏŒÏÎ± Î²Î´ÎµÎ»Ï…Î³Î¼Î¯Î±
+  (= I uncover the soul-destroying abhorrence)
+
+Hebrew (iw)
+-----------
+
+  ? ×“×’ ×¡×§×¨×Ÿ ×©×˜ ×‘×™× ×ž××•×›×–×‘ ×•×œ×¤×ª×¢ ×ž×¦× ×œ×• ×—×‘×¨×” ××™×š ×”×§×œ×™×˜×”
+
+Polish (pl)
+-----------
+
+  PchnÄ…Ä‡ w tÄ™ Å‚Ã³dÅº jeÅ¼a lub oÅ›m skrzyÅ„ fig
+  (= To push a hedgehog or eight bins of figs in this boat)
+
+Russian (ru)
+------------
+
+  Ð’ Ñ‡Ð°Ñ‰Ð°Ñ… ÑŽÐ³Ð° Ð¶Ð¸Ð» Ð±Ñ‹ Ñ†Ð¸Ñ‚Ñ€ÑƒÑ? Ð”Ð°, Ð½Ð¾ Ñ„Ð°Ð»ÑŒÑˆÐ¸Ð²Ñ‹Ð¹ ÑÐºÐ·ÐµÐ¼Ð¿Ð»ÑÑ€!
+  (= Would a citrus live in the bushes of south? Yes, but only a fake one!)
+
+Thai (th)
+---------
+
+  [--------------------------|------------------------]
+  à¹ à¹€à¸›à¹‡à¸™à¸¡à¸™à¸¸à¸©à¸¢à¹Œà¸ªà¸¸à¸”à¸›à¸£à¸°à¹€à¸ªà¸£à¸´à¸à¹€à¸¥à¸´à¸¨à¸„à¸¸à¸“à¸„à¹ˆà¸²  à¸à¸§à¹ˆà¸²à¸šà¸£à¸£à¸”à¸²à¸à¸¹à¸‡à¸ªà¸±à¸•à¸§à¹Œà¹€à¸”à¸£à¸±à¸ˆà¸‰à¸²à¸™
+  à¸ˆà¸‡à¸à¹ˆà¸²à¸Ÿà¸±à¸™à¸žà¸±à¸’à¸™à¸²à¸§à¸´à¸Šà¸²à¸à¸²à¸£           à¸­à¸¢à¹ˆà¸²à¸¥à¹‰à¸²à¸‡à¸œà¸¥à¸²à¸à¸¤à¹…à¹€à¸‚à¹ˆà¸™à¸†à¹ˆà¸²à¸šà¸µà¸‘à¸²à¹ƒà¸„à¸£
+  à¹„à¸¡à¹ˆà¸–à¸·à¸­à¹‚à¸—à¸©à¹‚à¸à¸£à¸˜à¹à¸Šà¹ˆà¸‡à¸‹à¸±à¸”à¸®à¸¶à¸”à¸®à¸±à¸”à¸”à¹ˆà¸²     à¸«à¸±à¸”à¸­à¸ à¸±à¸¢à¹€à¸«à¸¡à¸·à¸­à¸™à¸à¸µà¸¬à¸²à¸­à¸±à¸Šà¸Œà¸²à¸ªà¸±à¸¢
+  à¸›à¸à¸´à¸šà¸±à¸•à¸´à¸›à¸£à¸°à¸žà¸¤à¸•à¸´à¸à¸Žà¸à¸³à¸«à¸™à¸”à¹ƒà¸ˆ        à¸žà¸¹à¸”à¸ˆà¸²à¹ƒà¸«à¹‰à¸ˆà¹Šà¸°à¹† à¸ˆà¹‹à¸²à¹† à¸™à¹ˆà¸²à¸Ÿà¸±à¸‡à¹€à¸­à¸¢ à¸¯
+ 
+   এক দুই আই. ডিঃ   
+  [The copyright for the Thai example is owned by The Computer
+  Association of Thailand under the Royal Patronage of His Majesty the
+  King.]
+
+Please let me know if you find others! Special thanks to the people
+from all over the world who contributed these sentences.

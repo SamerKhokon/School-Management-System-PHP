@@ -1,0 +1,20 @@
+admin/accademic settings:
+menu order:
+1. Setting class information
+2. Subject configure
+3. Add new section
+---
+*chk all edit at admin - class,teacher select should be combobox not string
+
+*There is no option to select joinig date for employee at 'Add New Employee'
+
+*while changing the top menu body page should be blank
+
+*confusion with subject's full mark
+
+*Confusion with 'Notice log'
+
+*shter efit....pag3
+
+
+*

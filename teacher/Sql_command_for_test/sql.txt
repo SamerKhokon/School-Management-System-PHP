@@ -1,0 +1,30 @@
+#####insert value for Class configuration #####
+
+insert into std_class_config (class_name,section,no_of_student,class_teacher,year,total_ct,total_st)
+values('class-5','A','100','bithi','2011','20','20')
+
+###Student exam configuration#######
+Note: no need class information only need exam name and period information
+
+insert into std_exam_config (class_id,class_name,class_sec,exam_name,period) 
+values ('1','Class-1','A','CT3','1')
+
+
+###Subject Configuration Information#################
+Note : no need exact value of section because each section has same subject
+
+insert into school.std_subject_config 
+	(class_id, class_name, class_sec, subject_name, total_mark, ct_mark, ST_mark, final_mark)
+	
+values
+	(1, 'Class-1', 'A', 'Math', '70', '20', '10', '100')
+
+* for same value entry
+
+insert into school.std_subject_config 
+	(class_id, class_name, class_sec, subject_name, total_mark, ct_mark, ST_mark, final_mark)
+	
+
+                  select 	 '2', 'class-2', class_sec, subject_name, total_mark, ct_mark, ST_mark, final_mark 
+	from 
+	school.std_subject_config 

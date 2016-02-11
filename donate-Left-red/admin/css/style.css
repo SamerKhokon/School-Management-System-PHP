@@ -1,0 +1,354 @@
+/* =============================================================================
+
+	STYLE.CSS
+	version: 1.6
+	updated: 2009-03-06, 13:00 GMT+1
+
+============================================================================= */
+
+/* =============================================================================
+HTML - styles
+============================================================================= */
+
+body {background-color:#eaeaea; color:#303030;}
+a {color:#0085cc;}
+a:hover, a:active, a:focus {color:#df0000;}
+
+#content h2 {color:#0085cc;}
+
+
+
+
+#content table.x3 {border:2px solid #cfcfcf;}
+
+#content table.x3 th {border-right:1px solid #0074B3; background-color:#0085cc; color:#fff;}
+
+
+#content table.x3 td {border:1px solid #cfcfcf;}
+/*
+#content table.x3 tr.bg td {background-color:#e8f6ff;}
+
+*/
+
+#content dl dt {color:#000; background-image:url(../images/bg_label.gif);}
+
+#content fieldset {border:1px solid #ccc;}
+#content legend {background:#fff; color:#0085cc; background-image:url(../images/level.gif); width:200px; height:20px;}
+#content acronym, #content abbr, #content .help {border-bottom:1px dotted #cfcfcf;}
+
+/* =============================================================================
+HTML - without styles
+============================================================================= */
+
+table.nostyle th, dl.nostyle dt {color:#303030 !important;}
+
+/* =============================================================================
+LAYOUT
+============================================================================= */
+
+#tray {background-color:#303030; color:#cfcfcf;}
+#tray a, #tray strong {color:#fff;}
+#tray a:hover, #tray a:active, #tray a:focus {color:#b4e3ff;}
+
+#menu {background-color:#0085cc;}
+#menu ul li a {background-color:#fff; color:#303030;}
+#menu ul li a span {background-color:#FFF;}
+#menu ul li a:hover, #menu ul li a:active, #menu ul li a:focus, #menu ul li#menu-active a {background-color:#FFF; color:#df0000;}
+#menu ul li a:hover span, #menu ul li#menu-active a span {background-color:#FFF;}
+#menu ul li#menu-active a {color:#0085cc;}
+#menu ul.f-right a {color:#df0000;}
+
+#content {border:1px solid #afafaf; background:#fff;}
+#footer {color:#707070;}
+#footer a {color:#707070;}
+#footer a:hover, #footer a:active, #footer a:focus {color:#303030;}
+
+/* =============================================================================
+OTHERS
+============================================================================= */
+
+#aside #logo img {border:1px solid #bfbfbf;}
+#aside #search fieldset a {color:#303030;}
+#aside #search fieldset {border:1px solid #bfbfbf;}
+#aside #search fieldset a:hover, #aside #search fieldset a:active, #aside #search fieldset a:focus {color:#df0000;}
+#aside #btn-create a {background-color:#fff; color:#303030;}
+#aside #btn-create a span {background-color:#fff;}
+
+#aside ul li a {border-bottom:1px solid #cfcfcf; color:#303030;}
+#aside ul li#submenu-active a {background-color:#df0000; color:#fff;}
+#aside ul li a:hover, #aside ul li a:active, #aside ul li a:focus {color:#df0000;}
+#aside ul ul li a, #aside ul li#submenu-active ul li a {border-bottom:1px solid #cfcfcf; background-color:#f5f5f5; color:#303030;}
+#aside ul li ul li a {background-color:#e3e3e3;}
+#aside ul ul li a:hover, #aside ul ul li a:active, #aside ul ul li a:focus, #aside ul li#submenu-active ul li a:hover, #aside ul li#submenu-active ul li a:active, #aside ul li#submenu-active ul li a:focus {color:#df0000;}
+
+/*
+#content h1 {background-color:#303030; color:#fff;}
+*/
+#content .tabs {border-bottom:1px solid #cfcfcf;}
+#content .tabs a {color:#303030;}
+#content .tabs a span {color:#303030;}
+#content .tabs .ui-tabs-selected a {color:#fff;}
+#content .tabs .ui-tabs-selected a span {color:#fff;}
+.high {color:#df0000;}
+.high-bg {background:#FFB;}
+.low {color:#707070;}
+
+/* =============================================================================
+MESSAGES
+============================================================================= */
+
+.msg.warning {border:2px solid #F2DD8C; background-color:#FFF5CC;}
+.msg.warning a {color:#df0000;} .msg.warning a:hover, .msg.warning a:active, .msg.warning a:focus {color:#303030;}
+.msg.info {border:2px solid #B8E2FB; background-color:#E8F6FF;}
+.msg.done {border:2px solid #BBDF8D; background-color:#EAF7D9;}
+.msg.error {border:2px solid #FFAEAE; background-color:#FEEBEB;}
+
+
+
+/*-----------------form style--------------------*/
+.form{
+width:500px;
+text-align:center;
+color:#615357;
+padding:5px 0 5px 0;
+}
+.form_row{
+float:left;
+width:500px;
+text-align:center;
+padding:3px 0 3px 0;
+}
+label.left{
+float:left;
+width:150px;
+padding-top:3px;
+text-align:right;
+}
+label.left_long{
+float:left;
+width:90px;
+padding-top:3px;
+text-align:right;
+}
+input.form_input{
+border: 1px solid #C8D2D9;
+background-color:#FFFFFF;
+margin:0px;
+width:150px;
+float:left;
+margin-left:0px;
+}
+
+select.form_input{
+border: 1px solid #C8D2D9;
+background-color:#FFFFFF;
+margin:0px;
+width:150px;
+float:left;
+margin-left:0px;
+}
+input.form_inputs{
+border: 1px solid #C8D2D9;
+background-color:#FFFFFF;
+margin:0px;
+width:150px;
+float:left;
+margin-left:20px;
+}
+
+select.form_inputs{
+border: 1px solid #C8D2D9;
+background-color:#FFFFFF;
+margin:0px;
+width:150px;
+float:left;
+margin-left:20px;
+}
+
+
+.contact_information{
+font-size:10px;
+color:#385870;
+text-align:left;
+padding-left:20px;
+}
+.contact_information span{
+color:#d8325d;
+}
+/* //////////////////////////////////////////////////////////// */
+
+.title{
+background-color:#385870;
+text-align:left;
+width:100%;
+padding:5px 5px 5px 20px;
+color:#FFFFFF;
+font-weight:bold;
+}
+
+.form_tab{
+width:100%;
+height: auto;
+float:left;
+background-color:#f3f5f6;
+padding:8px;
+margin:5px 5px 5px 0px;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+.save_button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}.save_button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.save_button:active {
+	position:relative;
+	top:1px;
+}
+table{
+display:block;
+padding:5px 0px 5px  0px;
+font:normal 12px/15px Arial;
+    position: relative;
+    
+}
+table tr{
+padding:0px 10px 0px 0px;
+margin:10px 0px 0px 0px;
+
+
+
+}
+table tr td{
+padding:0px 10px 5px 0px;
+width:150px;
+
+
+
+
+}
+.head{
+
+
+
+margin:10px 10px px 0px;
+padding:0px 0px 0px 10px;}
+.basic{
+padding:10px 0px 0px 0px;
+
+
+}
+.basicc{
+margin:10px 0px 0px 0px;
+
+
+}
+.buttons {
+   border-top: 1px solid #119af0;
+   background: #38627d;
+   width:150px;
+   background: -webkit-gradient(linear, left top, left bottom, from(#20323d), to(#38627d));
+   background: -webkit-linear-gradient(top, #20323d, #38627d);
+   background: -moz-linear-gradient(top, #20323d, #38627d);
+   background: -ms-linear-gradient(top, #20323d, #38627d);
+   background: -o-linear-gradient(top, #20323d, #38627d);
+   padding: 5.5px 11px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #f5e9f5;
+   font-size: 15px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.buttons:hover {
+   border-top-color: #546570;
+   background: #546570;
+   color: #0f040f;
+   }
+.buttons:active {
+   border-top-color: #31688c;
+   background: #31688c;
+   }
+   .button_po{
+   float:left;
+  
+   margin:10px 0px 5px 20px ;}
+   
+    .button_sub {
+   border-top: 1px solid #c7dbe8;
+   background: #527c96;
+   width:150px;
+   background: -webkit-gradient(linear, left top, left bottom, from(#85c7ed), to(#527c96));
+   background: -webkit-linear-gradient(top, #85c7ed, #527c96);
+   background: -moz-linear-gradient(top, #85c7ed, #527c96);
+   background: -ms-linear-gradient(top, #85c7ed, #527c96);
+   background: -o-linear-gradient(top, #85c7ed, #527c96);
+   padding: 6px 12px;
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #f5e9f5;
+   font-size: 15px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button_sub:hover {
+   border-top-color: #437391;
+   background: #437391;
+   color: #0f040f;
+   }
+.button_sub:active {
+   border-top-color: #31688c;
+   background: #31688c;
+   }
+.test{
+float:left;
+border:solid 1px;
+width:100%;
+}
+.test1{
+float:left;
+
+width:20%;
+}
+.test2{
+float:left;
+
+width:80%;
+}
+
+   
+   
+   
+/* This imageless css button was generated by CSSButtonGenerator.com */
+/* This  css is for new form design */
